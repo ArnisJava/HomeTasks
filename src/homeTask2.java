@@ -80,7 +80,7 @@ public class homeTask2 {
             n = n/10; // Отбрасываем последнюю цифру, деля n на 10.( целочисленное деление на 10)
         }
         System.out.println(" Сумма цифр числа: " + sum);
-
+        System.out.println();
     }
 
 
